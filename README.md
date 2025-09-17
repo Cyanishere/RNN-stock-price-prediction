@@ -15,7 +15,7 @@ Close, Open, Low, Open and Volume of the daily stock price.
 
 ## Installation
 To run this project, you need to have Python installed along with the following libraries:
-
+```bash
 yfinance==0.2.18
 pandas==1.5.3
 google-colab==1.0.0
@@ -24,7 +24,7 @@ matplotlib==3.7.1
 scikit-learn==1.3.0
 tensorflow==2.12.0
 pandas-ta==0.3.14b0
-
+```
 You can install the required packages using the following command after
 [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 
