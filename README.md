@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 ## Directory Tree
-StockPricePrediction/
+RNN-stock-price-prediction/
 │
 ├── stockprice_prediction.ipynb # Jupyter notebook containing the analysis and model training(orginally in google colab)
 ├── sp500_data_two_year.csv # Titanic dataset
