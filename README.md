@@ -31,14 +31,20 @@ You can install the required packages using the following command after
 ```bash
 pip install -r requirements.txt
 ```
+Then open the notebook
+```bash
+jupyter notebook stockprice_prediction.ipynb
+```
 
 ## Directory Tree
+```bash
 RNN-stock-price-prediction/
 │
 ├── stockprice_prediction.ipynb # Jupyter notebook containing the analysis and model training(orginally in google colab)
 ├── sp500_data_two_year.csv # Titanic dataset
 ├── requirements.txt # List of required Python packages
 └── README.md # Project documentation
+```
 
 ## Author
 Jasper Lung
